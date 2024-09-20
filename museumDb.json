@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "66cbb3c59a0e91888efd1964"
+  },
+  "name": "National Museum ,Delhi",
+  "mlocation": " Janpath Road, Near Jawaharlal Nehru Bhawan, Central Secretariat, Delhi, 11001",
+  "Otimings": "09:00",
+  "Ctimings": "20:00",
+  "entry_price_adult": 50,
+  "entry_price_child": 20,
+  "createdAt": {
+    "$date": "2024-08-25T22:44:21.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T22:44:21.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbb47f9a0e91888efd1966"
+  },
+  "name": "Gandhi Smriti, Motilal Nehru Marg, Delhi",
+  "mlocation": "5, Tees January Marg, Near Kamal Restaurant, Motilal Nehru Marg Area, Delhi, 110011",
+  "Otimings": "07:00",
+  "Ctimings": "20:30",
+  "entry_price_adult": 100,
+  "entry_price_child": 40,
+  "createdAt": {
+    "$date": "2024-08-25T22:47:27.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T22:47:27.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbb4d79a0e91888efd1968"
+  },
+  "name": "National Rail Museum, New Delhi",
+  "mlocation": "Chanakyapuri, New Delhi, Delhi 110021",
+  "Otimings": "07:00",
+  "Ctimings": "17:00",
+  "entry_price_adult": 40,
+  "entry_price_child": 10,
+  "createdAt": {
+    "$date": "2024-08-25T22:48:55.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T22:48:55.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbb50c9a0e91888efd196a"
+  },
+  "name": "National Gallery of Modern Art, New Delhi",
+  "mlocation": "Jaipur House, India Gate, New Delhi, Delhi 110003",
+  "Otimings": "10:00",
+  "Ctimings": "18:00",
+  "entry_price_adult": 60,
+  "entry_price_child": 20,
+  "createdAt": {
+    "$date": "2024-08-25T22:49:48.504Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T22:49:48.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbb55dd6d6a387bc0c02ba"
+  },
+  "name": "Indira Gandhi Memorial Museum, New Delhi",
+  "mlocation": "1, Safdarjung Road, New Delhi, Delhi 110011",
+  "Otimings": "09:00",
+  "Ctimings": "21:00",
+  "entry_price_adult": 100,
+  "entry_price_child": 50,
+  "createdAt": {
+    "$date": "2024-08-25T22:51:09.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T22:51:09.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbb95e241ec495099f3e48"
+  },
+  "name": "National Gandhi Museum, New Delhi",
+  "mlocation": "Raj Ghat, New Delhi, Delhi 110002",
+  "Otimings": "09:30",
+  "Ctimings": "17:30",
+  "closingDay": "Monday",
+  "entry_price_adult": 0,
+  "entry_price_child": 0,
+  "entry_price_Foreign": 0,
+  "createdAt": {
+    "$date": "2024-08-25T23:08:14.084Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T23:08:14.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbb9b0241ec495099f3e4a"
+  },
+  "name": "Crafts Museum, New Delhi",
+  "mlocation": "Bhairon Marg, Pragati Maidan, New Delhi, Delhi 110001",
+  "Otimings": "09:30",
+  "Ctimings": "17:00",
+  "closingDay": "Monday",
+  "entry_price_adult": 20,
+  "entry_price_child": 0,
+  "entry_price_Foreign": 200,
+  "createdAt": {
+    "$date": "2024-08-25T23:09:36.623Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T23:09:36.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cbba16241ec495099f3e4c"
+  },
+  "name": "National Science Centre, New Delhi",
+  "mlocation": "Near Gate No. 1, Pragati Maidan, New Delhi, Delhi 110001",
+  "Otimings": "10:00",
+  "Ctimings": "17:30",
+  "closingDay": "Monday",
+  "entry_price_adult": 60,
+  "entry_price_child": 0,
+  "entry_price_Foreign": 0,
+  "createdAt": {
+    "$date": "2024-08-25T23:11:18.504Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T23:11:18.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d3800efc4de7816a6cd5a9"
+  },
+  "name": "Regional Science City, Lucknow",
+  "mlocation": "Purania Road, Ekta Vihar, Aliganj Extension, Sector E, Lucknow, Uttar Pradesh",
+  "Otimings": "09:30",
+  "Ctimings": "17:30",
+  "closingDay": "Never Closed",
+  "entry_price_adult": 25,
+  "entry_price_child": 10,
+  "entry_price_Foreign": 0,
+  "createdAt": {
+    "$date": "2024-08-31T20:41:50.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T20:41:50.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d380d31f0358c2e9c974b3"
+  },
+  "name": "Periyar Science and Technology Centre & B.M. Birla Planetarium Kotturpuram, Chennai,",
+  "mlocation": "Gandhi Mandapam Road, Duraisamy Nagar, Kotturpuram, Chennai, Tamil Nadu",
+  "Otimings": "10:00",
+  "Ctimings": "17:45",
+  "closingDay": "Never Closed",
+  "entry_price_adult": 30,
+  "entry_price_child": 0,
+  "entry_price_Foreign": 0,
+  "createdAt": {
+    "$date": "2024-08-31T20:45:07.814Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T20:45:07.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d38166df0b9e3ef54302de"
+  },
+  "name": "Salar Jung Museum, Hyderabad, Telangana",
+  "mlocation": "Salar Jung Rd, Hyderabad, Telangana",
+  "Otimings": "10:00",
+  "Ctimings": "17:00",
+  "closingDay": "Friday",
+  "entry_price_adult": 20,
+  "entry_price_child": 10,
+  "entry_price_Foreign": 500,
+  "createdAt": {
+    "$date": "2024-08-31T20:47:34.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T20:47:34.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d381b2df0b9e3ef54302e8"
+  },
+  "name": "City Palace Museum, Udaipur",
+  "mlocation": "City Palace Complex, Udaipur, Rajasthan",
+  "Otimings": "09:30",
+  "Ctimings": "17:30",
+  "closingDay": "Never Closed",
+  "entry_price_adult": 300,
+  "entry_price_child": 100,
+  "entry_price_Foreign": 0,
+  "createdAt": {
+    "$date": "2024-08-31T20:48:50.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T20:48:50.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d3820574540c17a14fcb4b"
+  },
+  "name": "Victoria Memorial Hall, Kolkata",
+  "mlocation": "1, Queens Way, Maidan, Kolkata, West Bengal 700071",
+  "Otimings": "10:00",
+  "Ctimings": "17:00",
+  "closingDay": "Monday",
+  "entry_price_adult": 30,
+  "entry_price_child": 0,
+  "entry_price_Foreign": 500,
+  "createdAt": {
+    "$date": "2024-08-31T20:50:13.756Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T20:50:13.756Z"
+  },
+  "__v": 0
+}]
